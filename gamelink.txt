@@ -6,6 +6,36 @@
     "Link": "https://play.google.com/store/apps/details?id=com.hexa.balance.blast.block"
  },
  {
+    "Name" : "Ball Sort",
+    "Packagename" : "com.swipe.ball.mind.game",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballsort.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.swipe.ball.mind.game"
+ },
+ {
+    "Name" : "Flappy Ball",
+    "Packagename" : "com.flappy.dunk.ball",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/flappyball.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.flappy.dunk.ball"
+ },
+ {
+    "Name" : "Ball Blast",
+    "Packagename" : "com.ball.blast.cannon.shooter",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballblast.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.ball.blast.cannon.shooter"
+ },
+ {
+    "Name" : "Police Chase",
+    "Packagename" : "com.police.chase.thief.endless.car.chase",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/policechase.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.police.chase.thief.endless.car.chase"
+ },
+ {
+    "Name" : "Stack Ball",
+    "Packagename" : "com.stackjumpingball.ballstack.helixtower3D",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballstack.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.stackjumpingball.ballstack.helixtower3D"
+ },
+ {
     "Name" : "Helix Jump",
     "Packagename" : "com.helixjumping.bounce.ball.falling.stackjump3D",
     "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/helixjump.png",
