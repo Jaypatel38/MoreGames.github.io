@@ -40,5 +40,11 @@
     "Packagename" : "com.helixjumping.bounce.ball.falling.stackjump3D",
     "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/helixjump.png",
     "Link": "https://play.google.com/store/apps/details?id=com.helixjumping.bounce.ball.falling.stackjump3D"
+ },
+ {
+    "Name" : "Royal Casino",
+    "Packagename" : "com.casino.royal.roulettecasino.slotcasino.spin.vegas",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/casino.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.casino.royal.roulettecasino.slotcasino.spin.vegas"
  }
 ]
