@@ -6,6 +6,12 @@
     "Link": "https://play.google.com/store/apps/details?id=com.hexa.balance.blast.block"
  },
  {
+    "Name" : "Ball Sort 3D",
+    "Packagename" : "com.ball.sort.puzzle.swipeball.stackcolorball.colorsort.sortpuzzle",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballsort3d.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.ball.sort.puzzle.swipeball.stackcolorball.colorsort.sortpuzzle"
+ },
+ {
     "Name" : "Ball Sort",
     "Packagename" : "com.swipe.ball.mind.game",
     "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballsort.png",
