@@ -1,5 +1,11 @@
 [
  {
+    "Name" : "Ball Sort",
+    "Packagename" : "com.swipe.ball.mind.game",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballsort.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.swipe.ball.mind.game"
+ },
+ {
     "Name" : "Balance Hexa",
     "Packagename" : "com.hexa.balance.blast.block",
     "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/balancehexa.png",
@@ -12,22 +18,22 @@
     "Link": "https://play.google.com/store/apps/details?id=com.ball.sort.puzzle.swipeball.stackcolorball.colorsort.sortpuzzle"
  },
  {
-    "Name" : "Ball Sort",
-    "Packagename" : "com.swipe.ball.mind.game",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballsort.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.swipe.ball.mind.game"
- },
- {
-    "Name" : "Flappy Ball",
-    "Packagename" : "com.flappy.dunk.ball",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/flappyball.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.flappy.dunk.ball"
+    "Name" : "Squid Game",
+    "Packagename" : "com.squidgame.greenlight.redlight.challengersurvival.SquidGame3D",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/SquidGame.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.squidgame.greenlight.redlight.challengersurvival.SquidGame3D"
  },
  {
     "Name" : "Ball Blast",
     "Packagename" : "com.ball.blast.cannon.shooter",
     "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballblast.png",
     "Link": "https://play.google.com/store/apps/details?id=com.ball.blast.cannon.shooter"
+ },
+ {
+    "Name" : "Flappy Ball",
+    "Packagename" : "com.flappy.dunk.ball",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/flappyball.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.flappy.dunk.ball"
  },
  {
     "Name" : "Police Chase",
@@ -40,12 +46,6 @@
     "Packagename" : "com.stackjumpingball.ballstack.helixtower3D",
     "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballstack.png",
     "Link": "https://play.google.com/store/apps/details?id=com.stackjumpingball.ballstack.helixtower3D"
- },
- {
-    "Name" : "Helix Jump",
-    "Packagename" : "com.helixjumping.bounce.ball.falling.stackjump3D",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/helixjump.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.helixjumping.bounce.ball.falling.stackjump3D"
  },
  {
     "Name" : "Royal Casino",
