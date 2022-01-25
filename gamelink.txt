@@ -30,6 +30,12 @@
     "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballblast.png",
     "Link": "https://play.google.com/store/apps/details?id=com.ball.blast.cannon.shooter"
  },
+{
+    "Name" : "Poppy Fun Race",
+    "Packagename" : "com.fun.race.runnergame.FunRun3D",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/poppyfunrun.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.fun.race.runnergame.FunRun3D"
+ },
  {
     "Name" : "Flappy Ball",
     "Packagename" : "com.flappy.dunk.ball",
