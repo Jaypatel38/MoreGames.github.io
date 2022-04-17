@@ -1,69 +1,20 @@
 [
  {
-    "Name" : "Word Guess",
-    "Packagename" : "com.wordle.wordchallenge.wordpuzzle",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/wordler.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.wordle.wordchallenge.wordpuzzle"
+    "Name" : "Rolling Cube",
+    "Packagename" : "com.sliding.cube.RollingCube3D",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/RollingCube.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.sliding.cube.RollingCube3D"
  },
  {
     "Name" : "Ball Sort",
-    "Packagename" : "com.swipe.ball.mind.game",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballsort.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.swipe.ball.mind.game"
+    "Packagename" : "com.ballsort.colorballsort.stackpuzzle",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/BallSort.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.ballsort.colorballsort.stackpuzzle"
  },
- {
-    "Name" : "Pull Pin",
-    "Packagename" : "com.pullpin.balldrop.ballrescue",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/pullpin.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.pullpin.balldrop.ballrescue"
- },
- {
-    "Name" : "Balance Hexa",
-    "Packagename" : "com.hexa.balance.blast.block",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/balancehexa.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.hexa.balance.blast.block"
- },
- {
-    "Name" : "Ball Sort 3D",
-    "Packagename" : "com.ball.sort.puzzle.swipeball.stackcolorball.colorsort.sortpuzzle",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballsort3d.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.ball.sort.puzzle.swipeball.stackcolorball.colorsort.sortpuzzle"
- },
- 
  {
     "Name" : "Ball Blast",
-    "Packagename" : "com.ball.blast.cannon.shooter",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballblast.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.ball.blast.cannon.shooter"
- },
-{
-    "Name" : "Poppy Fun Race",
-    "Packagename" : "com.fun.race.runnergame.FunRun3D",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/poppyfunrun.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.fun.race.runnergame.FunRun3D"
- },
- {
-    "Name" : "Flappy Ball",
-    "Packagename" : "com.flappy.dunk.ball",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/flappyball.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.flappy.dunk.ball"
- },
- {
-    "Name" : "Police Chase",
-    "Packagename" : "com.police.chase.thief.endless.car.chase",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/policechase.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.police.chase.thief.endless.car.chase"
- },
- {
-    "Name" : "Stack Ball",
-    "Packagename" : "com.stackjumpingball.ballstack.helixtower3D",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/ballstack.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.stackjumpingball.ballstack.helixtower3D"
- },
- {
-    "Name" : "Royal Casino",
-    "Packagename" : "com.casino.royal.roulettecasino.slotcasino.spin.vegas",
-    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/casino.png",
-    "Link": "https://play.google.com/store/apps/details?id=com.casino.royal.roulettecasino.slotcasino.spin.vegas"
+    "Packagename" : "com.cannon.ballblast.colorballshooter",
+    "Icon" : "https://jaypatel38.github.io/MoreGames.github.io/icons/BallBlast.png",
+    "Link": "https://play.google.com/store/apps/details?id=com.cannon.ballblast.colorballshooter"
  }
 ]
